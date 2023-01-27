@@ -1,0 +1,38 @@
+{
+  "defaults": {
+    "Start_lamp": 0,
+    "Brake_lamp": 1,
+    "out0": 0,
+    "out3": 2,
+    "out4": 3,
+    "out5": 4,
+    "out6": 5,
+    "out7": 6,
+    "MA_<<_>>_lamp": 0,
+    "MA_Check_Point_lamp": 1,
+    "MA_Race_Leader_lamp": 6,
+    "MA_DJ_Music_lamp": 2,
+    "led_winner0": 0,
+    "led_winner1": 6,
+    "lamp1": 0,
+    "lamp2": 1,
+    "lamp3": 2,
+    "lamp4": 3,
+    "lamp6": 4,
+    "lamp7": 5,
+    "led0": 0,
+    "led1": 1
+  },
+  "vr": {
+    "out0": 0,
+    "out3": 2,
+    "out4": 3,
+    "out5": 4,
+    "out6": 5,
+    "out7": 6
+  },
+  "outrun": {
+    "Start_lamp": 0,
+    "Brake_lamp": 2
+  }
+}
